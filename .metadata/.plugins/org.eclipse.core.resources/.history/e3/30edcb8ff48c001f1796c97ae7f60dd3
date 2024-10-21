@@ -1,0 +1,17 @@
+package java241018;
+
+public class Practice241018 {
+
+	public static int sum(int a, int b) {
+		return a + b;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int result = sum(1,2);
+		System.out.println("클래스 메서드(static) 이용해보기 , result: " + result);
+		
+		
+	}
+
+}
